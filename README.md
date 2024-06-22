@@ -9,7 +9,7 @@ A simple command-line Todo application written in Go. This CLI allows you to add
 - Delete a specific Todo item by ID.
 - Update a specific Todo item by ID.
 
-[Todoify Screenshot](./todoify.png)
+![Todoify Screenshot](./todoify.png)
 
 ## Installation
 
@@ -27,7 +27,16 @@ A simple command-line Todo application written in Go. This CLI allows you to add
 
 ## Help
 
-run
+```bash
+todoify help
+
+```
+
+For specific commands
+
+```bash
+todoify help add
+```
 
 ## Usage
 
